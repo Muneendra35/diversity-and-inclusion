@@ -24,13 +24,13 @@ Dashboard:
 
 Insights:
 
-1. As shown the data Visualization, It can be deduced that:
-2. 41 % Female hires of the year and 59 % Male hires of the years.
-3. 53.8% of promoted were Female in the Junior Officer category, the highest for the year.
-4. 47% of promoted were Male in the Junior Officer category, the lowest for the year.
-5. Director is the highest Average time of job level promoted in this year.
-6. Finance department 22% highest turnover of the year.
-7. Average Rating Female 2.42%
-8. Average Rating Male 2.41%
-9. Employees promoted year of 2021 is 54.34% Male and 45.66% Female.
-10. The most common age group is 20-29 having 223 employees fall in this category.
+As shown the data Visualization, It can be deduced that:
+1. 41 % Female hires of the year and 59 % Male hires of the years.
+2. 53.8% of promoted were Female in the Junior Officer category, the highest for the year.
+3. 47% of promoted were Male in the Junior Officer category, the lowest for the year.
+4. Director is the highest Average time of job level promoted in this year.
+5. Finance department 22% highest turnover of the year.
+6. Average Rating Female 2.42%
+7. Average Rating Male 2.41%
+8. Employees promoted year of 2021 is 54.34% Male and 45.66% Female.
+9. The most common age group is 20-29 having 223 employees fall in this category.
